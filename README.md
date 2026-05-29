@@ -2,7 +2,7 @@
 
 > Do not go gentle into that good night.
 
-Founder @ [Alloomi](https://alloomi.ai) @[OpenLoomi](https://openloomi.ai)· Building the AI layer that closes work loops before you have to ask.
+Founder @ [Alloomi](https://alloomi.ai) @[OpenLoomi](https://openloomi.ai)· Ex @AntGroup @eBay · Building the AI layer that closes work loops before you have to ask.
 
 ---
 
