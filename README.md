@@ -26,8 +26,8 @@ The real shift is machines that understand your work deeply enough to move it fo
 
 The real work is at [melandlabs](https://github.com/melandlabs). Before that:
 
-- **[MOSN](https://github.com/mosn/mosn)** — cloud-native network proxy; founder. Built the infrastructure layer that makes distributed systems actually observable and controllable.
 - **[KCL](https://github.com/kcl-lang/kcl)** — configuration & policy language for cloud-native, a CNCF project; founder. The idea: code should describe intent, not implementation details.
+- **[MOSN](https://github.com/mosn/mosn)** — cloud-native network proxy; founder. Built the infrastructure layer that makes distributed systems actually observable and controllable.
 - **[Apache Kylin](https://github.com/apache/kylin)** — OLAP engine for massive-scale analytics, an Apache project; early contributor. Real-time insight at scale before it was a common expectation.
 
 Stack in production: **TypeScript + Rust** for the AI agent layer. Go for infra.
