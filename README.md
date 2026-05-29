@@ -9,7 +9,7 @@ Founder @ [Alloomi](https://alloomi.ai) @[OpenLoomi](https://openloomi.ai)· Ex 
 ## Now
 
 **[Alloomi](https://alloomi.ai)**
-AI-native Work OS for founders and small teams. Not a chat interface — an agent that understands your long-term context, proactively surfaces what matters, and executes with your authorization.
+AI-native Work OS for founders and small teams. An agent that understands your long-term context, proactively surfaces what matters, and executes with your authorization.
 
 **[OpenLoomi](https://openloomi.ai)** · [open source](https://github.com/melandlabs/openloomi)
 The open-source foundation. AI Mates that remember everything across every platform you work in.
